@@ -1,0 +1,25 @@
+{
+  "name": "angular-ec-dropdown-filter",
+  "version": "1.0.0",
+  "description": "Dropdown that displays a list of items and filters them when user types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilcieslar/angular-ec-dropdown-filter.git"
+  },
+  "keywords": [
+    "angular",
+    "dropdown",
+    "autocomplete",
+    "filter"
+  ],
+  "author": "Emil Cieslar & Webkreativ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilcieslar/angular-ec-dropdown-filter/issues"
+  },
+  "homepage": "https://github.com/emilcieslar/angular-ec-dropdown-filter#readme"
+}
